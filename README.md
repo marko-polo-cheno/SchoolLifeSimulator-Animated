@@ -19,5 +19,5 @@ Boring Class Simulator Description:
  Press 1 at any time to return to the normal setting.
  */
 ![](lecture.PNG)
-![](paper.PNG)
+![](notes.PNG)
 ![](clock.PNG)
