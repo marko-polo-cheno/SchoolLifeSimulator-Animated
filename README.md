@@ -18,3 +18,4 @@ Boring Class Simulator Description:
  Press 3 to stare at the clock waiting for the class to finish.
  Press 1 at any time to return to the normal setting.
  */
+![](lecture.PNG)
